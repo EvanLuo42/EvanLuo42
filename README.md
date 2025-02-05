@@ -7,6 +7,12 @@
 - 💬  Feel free to talk with me about anything related to programming, games or computer graphics
 - 🎶  I’ve been playing piano for 14 years and am the principal trumpet player in my school orchestra
 
+## Contact
+
+I prefer to contact through email, but I'm also available on the following platforms:
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/carbon_2s2_2p2)&nbsp;[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](http://discord.com/users/861131016152678420)
+
 ## Here are some tools I use
 
 ### Systems

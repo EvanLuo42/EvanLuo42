@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Evan!
 
-## I'm high school senior interested in Computer Graphics
+## I'm undergraduate student in UIUC interested in Computer Graphics
 
 - 🔭  I’m currently reading _Real-Time Rendering 4th Edition_ and learning Calculus 3
 - 🌱  I’m currently improving my skills in Typescript, Python, Java, Kotlin, Swift, and Rust

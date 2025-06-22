@@ -2,7 +2,7 @@
 
 ## I'm high school senior interested in Computer Graphics
 
-- 🔭  I’m currently learning about Rasterization and preparing for IBDP May 2025 exam
+- 🔭  I’m currently reading _Real-Time Rendering 4th Edition_ and learning Calculus 3
 - 🌱  I’m currently improving my skills in Typescript, Python, Java, Kotlin, Swift, and Rust
 - 💬  Feel free to talk with me about anything related to programming, games or computer graphics
 - 🎶  I’ve been playing piano for 14 years and am the principal trumpet player in my school orchestra
